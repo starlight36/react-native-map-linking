@@ -1,0 +1,21 @@
+{
+  "name": "react-native-map-linking",
+  "version": "1.0.0",
+  "description": "Linking to map for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "map",
+    "linking"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^15.1.0",
+    "react-native": "^0.28.0"
+  }
+}
